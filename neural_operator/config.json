@@ -1,0 +1,83 @@
+{
+    "data": {
+        "train_dir": "data/train",
+        "val_dir": "data/val",
+        "image_size": 150,
+        "num_workers": 2,
+        "train_split": 0.9,
+        "seed": 42
+    },
+    "training": {
+        "num_epochs": 100,
+        "batch_size": 32,
+        "lr": 9e-4,
+        "weight_decay": 1e-4,
+        "optimizer": "AdamW",
+        "scheduler": "StepLR",
+        "scheduler_params": {
+            "step_size": 10,
+            "gamma": 0.75
+        },
+        "top_k_checkpoints": 2
+    },
+    "models": {
+        "naive_fno": {
+            "class": "NaiveFNO",
+            "in_channels": 1,
+            "num_classes": 3,
+            "hidden_channels": 64,
+            "modes1": 12,
+            "modes2": 12,
+            "num_layers": 6,
+            "activation": "gelu",
+            "dropout": 0.1,
+            "loss": "cross_entropy"
+        },
+        "fno": {
+            "class": "FNOImageClassifier",
+            "in_channels": 1,
+            "num_classes": 3,
+            "hidden_channels": 64,
+            "modes": 12,
+            "num_layers": 6,
+            "activation": "gelu",
+            "dropout": 0.1,
+            "dropout_mode": "none",
+            "norm": "batch",
+            "mlp_expansion": 0.5,
+            "use_channel_mlp": true,
+            "loss": "cross_entropy"
+        },
+        "fno_higher_modes": {
+            "class": "FNOImageClassifier",
+            "in_channels": 1,
+            "num_classes": 3,
+            "hidden_channels": 64,
+            "modes": 14,
+            "num_layers": 6,
+            "activation": "gelu",
+            "dropout": 0.1,
+            "dropout_mode": "none",
+            "norm": "batch",
+            "mlp_expansion": 0.5,
+            "use_channel_mlp": true,
+            "loss": "cross_entropy"
+        },
+        "hourglass": {
+            "class": "HourglassFNO",
+            "in_channels": 1,
+            "num_classes": 3,
+            "hidden_channels": 64,
+            "base_modes": 12,
+            "num_layers": 6,
+            "activation": "gelu",
+            "dropout": 0.1,
+            "dropout_mode": "none",
+            "norm": "batch",
+            "mlp_expansion": 0.5,
+            "use_channel_mlp": true,
+            "mode_reduction_factor": 0.75,
+            "loss": "cross_entropy"
+        }
+    }
+}

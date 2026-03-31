@@ -1,0 +1,231 @@
+##Common Task train logs
+-------------------------------------------------------------------
+Epoch 1/400, Test Loss: 1.10370094516266, Accuracy on Test set: 31.03%
+saving for epoch:1 @ test accuracy 0.3363333333333333
+Epoch 2/400, Test Loss: 1.101832611865907, Accuracy on Test set: 33.63%
+saving for epoch:2 @ test accuracy 0.3363333333333333
+Epoch 3/400, Test Loss: 1.1010184587460559, Accuracy on Test set: 33.63%
+saving for epoch:3 @ test accuracy 0.3363333333333333
+Epoch 4/400, Test Loss: 1.0999278355548732, Accuracy on Test set: 33.63%
+saving for epoch:4 @ test accuracy 0.3363333333333333
+Epoch 5/400, Test Loss: 1.0961060597433299, Accuracy on Test set: 33.63%
+saving for epoch:5 @ test accuracy 0.3363333333333333
+Epoch 6/400, Test Loss: 1.0924559696025757, Accuracy on Test set: 33.63%
+saving for epoch:6 @ test accuracy 0.352
+Epoch 7/400, Test Loss: 1.0763768867293806, Accuracy on Test set: 35.20%
+saving for epoch:7 @ test accuracy 0.4716666666666667
+Epoch 8/400, Test Loss: 0.9800410493855228, Accuracy on Test set: 47.17%
+saving for epoch:8 @ test accuracy 0.4836666666666667
+Epoch 9/400, Test Loss: 0.8577367152082976, Accuracy on Test set: 48.37%
+saving for epoch:9 @ test accuracy 0.6486666666666666
+Epoch 10/400, Test Loss: 0.7583083434127519, Accuracy on Test set: 64.87%
+saving for epoch:10 @ test accuracy 0.698
+Epoch 11/400, Test Loss: 0.6879891849242116, Accuracy on Test set: 69.80%
+saving for epoch:11 @ test accuracy 0.7326666666666667
+Epoch 12/400, Test Loss: 0.6213645966132105, Accuracy on Test set: 73.27%
+saving for epoch:12 @ test accuracy 0.7756666666666666
+Epoch 13/400, Test Loss: 0.5610769855750115, Accuracy on Test set: 77.57%
+saving for epoch:13 @ test accuracy 0.8226666666666667
+Epoch 14/400, Test Loss: 0.5083458468812336, Accuracy on Test set: 82.27%
+Epoch 15/400, Test Loss: 0.45776674871761086, Accuracy on Test set: 79.90%
+saving for epoch:15 @ test accuracy 0.8543333333333333
+Epoch 16/400, Test Loss: 0.4131307150656578, Accuracy on Test set: 85.43%
+saving for epoch:16 @ test accuracy 0.867
+Epoch 17/400, Test Loss: 0.38332252705831665, Accuracy on Test set: 86.70%
+saving for epoch:17 @ test accuracy 0.892
+Epoch 18/400, Test Loss: 0.35531544501747564, Accuracy on Test set: 89.20%
+Epoch 19/400, Test Loss: 0.3270521926653894, Accuracy on Test set: 87.10%
+Epoch 20/400, Test Loss: 0.31068955149978256, Accuracy on Test set: 88.70%
+saving for epoch:20 @ test accuracy 0.9016666666666666
+Epoch 21/400, Test Loss: 0.29253329421389157, Accuracy on Test set: 90.17%
+saving for epoch:21 @ test accuracy 0.9023333333333333
+Epoch 22/400, Test Loss: 0.2838349979706285, Accuracy on Test set: 90.23%
+saving for epoch:22 @ test accuracy 0.91
+Epoch 23/400, Test Loss: 0.267806496488822, Accuracy on Test set: 91.00%
+saving for epoch:23 @ test accuracy 0.911
+Epoch 24/400, Test Loss: 0.25995196818740446, Accuracy on Test set: 91.10%
+Epoch 25/400, Test Loss: 0.24803183817467983, Accuracy on Test set: 90.90%
+saving for epoch:25 @ test accuracy 0.9193333333333333
+Epoch 26/400, Test Loss: 0.23713280465365585, Accuracy on Test set: 91.93%
+saving for epoch:26 @ test accuracy 0.9193333333333333
+Epoch 27/400, Test Loss: 0.23166130779761274, Accuracy on Test set: 91.93%
+saving for epoch:27 @ test accuracy 0.9216666666666666
+Epoch 28/400, Test Loss: 0.22027961591973688, Accuracy on Test set: 92.17%
+saving for epoch:28 @ test accuracy 0.9263333333333333
+Epoch 29/400, Test Loss: 0.2182861805950861, Accuracy on Test set: 92.63%
+Epoch 30/400, Test Loss: 0.21267907667499017, Accuracy on Test set: 91.73%
+Epoch 31/400, Test Loss: 0.2098600112290179, Accuracy on Test set: 92.00%
+Epoch 32/400, Test Loss: 0.19977712002693193, Accuracy on Test set: 92.17%
+saving for epoch:32 @ test accuracy 0.9283333333333333
+Epoch 33/400, Test Loss: 0.1926634060969285, Accuracy on Test set: 92.83%
+Epoch 34/400, Test Loss: 0.19276298374220094, Accuracy on Test set: 92.37%
+Epoch 35/400, Test Loss: 0.18260383079825984, Accuracy on Test set: 91.90%
+Epoch 36/400, Test Loss: 0.18042131601634184, Accuracy on Test set: 90.53%
+Epoch 37/400, Test Loss: 0.1751389698218113, Accuracy on Test set: 92.03%
+Epoch 38/400, Test Loss: 0.1712843495028279, Accuracy on Test set: 92.60%
+Epoch 39/400, Test Loss: 0.16901089053300886, Accuracy on Test set: 92.10%
+Epoch 40/400, Test Loss: 0.16151529494055075, Accuracy on Test set: 90.73%
+Epoch 41/400, Test Loss: 0.15645979461370485, Accuracy on Test set: 92.27%
+saving for epoch:41 @ test accuracy 0.935
+Epoch 42/400, Test Loss: 0.15853095771435877, Accuracy on Test set: 93.50%
+Epoch 43/400, Test Loss: 0.1526080702577157, Accuracy on Test set: 93.03%
+Epoch 44/400, Test Loss: 0.15131547969381956, Accuracy on Test set: 90.03%
+Epoch 45/400, Test Loss: 0.1445686658270551, Accuracy on Test set: 91.97%
+Epoch 46/400, Test Loss: 0.13645900987194612, Accuracy on Test set: 89.83%
+Epoch 47/400, Test Loss: 0.1320717680263576, Accuracy on Test set: 92.60%
+Epoch 48/400, Test Loss: 0.1298101884423274, Accuracy on Test set: 88.43%
+Epoch 49/400, Test Loss: 0.12976189882834377, Accuracy on Test set: 92.07%
+Epoch 50/400, Test Loss: 0.12421569784317536, Accuracy on Test set: 93.33%
+Epoch 51/400, Test Loss: 0.12049544599101442, Accuracy on Test set: 89.43%
+Epoch 52/400, Test Loss: 0.11594101459105716, Accuracy on Test set: 92.07%
+saving for epoch:52 @ test accuracy 0.9353333333333333
+Epoch 53/400, Test Loss: 0.11542382935212121, Accuracy on Test set: 93.53%
+Epoch 54/400, Test Loss: 0.11295670007854276, Accuracy on Test set: 92.97%
+Epoch 55/400, Test Loss: 0.10741182080342024, Accuracy on Test set: 90.13%
+Epoch 56/400, Test Loss: 0.10524826380313855, Accuracy on Test set: 93.10%
+Epoch 57/400, Test Loss: 0.10185316558132805, Accuracy on Test set: 91.00%
+Epoch 58/400, Test Loss: 0.09806280987451992, Accuracy on Test set: 91.13%
+Epoch 59/400, Test Loss: 0.09430674741583131, Accuracy on Test set: 92.97%
+Epoch 60/400, Test Loss: 0.09605016234502974, Accuracy on Test set: 93.13%
+Epoch 61/400, Test Loss: 0.08889704122609719, Accuracy on Test set: 91.67%
+Epoch 62/400, Test Loss: 0.08767894019871526, Accuracy on Test set: 93.30%
+Epoch 63/400, Test Loss: 0.08689408008697756, Accuracy on Test set: 89.07%
+saving for epoch:63 @ test accuracy 0.9383333333333334
+Epoch 64/400, Test Loss: 0.08288613879850125, Accuracy on Test set: 93.83%
+Epoch 65/400, Test Loss: 0.07761055876399386, Accuracy on Test set: 92.77%
+Epoch 66/400, Test Loss: 0.07470800775275412, Accuracy on Test set: 79.40%
+Epoch 67/400, Test Loss: 0.0767563484847475, Accuracy on Test set: 91.47%
+Epoch 68/400, Test Loss: 0.07214831805377492, Accuracy on Test set: 89.17%
+Epoch 69/400, Test Loss: 0.070040569464142, Accuracy on Test set: 88.77%
+Epoch 70/400, Test Loss: 0.06925725490207921, Accuracy on Test set: 92.40%
+Epoch 71/400, Test Loss: 0.06853215099793475, Accuracy on Test set: 88.43%
+Epoch 72/400, Test Loss: 0.06548602951434551, Accuracy on Test set: 92.00%
+Epoch 73/400, Test Loss: 0.0653659402617911, Accuracy on Test set: 88.93%
+Epoch 74/400, Test Loss: 0.05846355785726089, Accuracy on Test set: 93.27%
+Epoch 75/400, Test Loss: 0.061528545729286295, Accuracy on Test set: 93.13%
+Epoch 76/400, Test Loss: 0.05973060690396205, Accuracy on Test set: 93.37%
+Epoch 77/400, Test Loss: 0.058606707866157966, Accuracy on Test set: 93.80%
+Epoch 78/400, Test Loss: 0.05159050769115229, Accuracy on Test set: 91.40%
+Epoch 79/400, Test Loss: 0.05331362248067325, Accuracy on Test set: 92.73%
+Epoch 80/400, Test Loss: 0.050717386027568534, Accuracy on Test set: 92.23%
+Epoch 81/400, Test Loss: 0.05501396897341615, Accuracy on Test set: 93.00%
+Epoch 82/400, Test Loss: 0.04795955617854734, Accuracy on Test set: 90.37%
+Epoch 83/400, Test Loss: 0.045997373870092825, Accuracy on Test set: 92.03%
+Epoch 84/400, Test Loss: 0.04988246610480851, Accuracy on Test set: 93.27%
+Epoch 85/400, Test Loss: 0.044042756026213485, Accuracy on Test set: 92.47%
+Epoch 86/400, Test Loss: 0.04524151648955323, Accuracy on Test set: 92.23%
+Epoch 87/400, Test Loss: 0.042854825502605796, Accuracy on Test set: 92.30%
+Epoch 88/400, Test Loss: 0.04528475308049276, Accuracy on Test set: 87.30%
+Epoch 89/400, Test Loss: 0.042184013350297346, Accuracy on Test set: 88.47%
+saving for epoch:89 @ test accuracy 0.9406666666666667
+Epoch 90/400, Test Loss: 0.03931041220776842, Accuracy on Test set: 94.07%
+Epoch 91/400, Test Loss: 0.04272518958013628, Accuracy on Test set: 90.80%
+Epoch 92/400, Test Loss: 0.038327822750831526, Accuracy on Test set: 89.77%
+Epoch 93/400, Test Loss: 0.0373322352638989, Accuracy on Test set: 92.93%
+Epoch 94/400, Test Loss: 0.04228935933393819, Accuracy on Test set: 88.53%
+Epoch 95/400, Test Loss: 0.03502919616495476, Accuracy on Test set: 92.40%
+Epoch 96/400, Test Loss: 0.0359561026153724, Accuracy on Test set: 90.13%
+Epoch 97/400, Test Loss: 0.03487672826321575, Accuracy on Test set: 92.43%
+Epoch 98/400, Test Loss: 0.03615960021949069, Accuracy on Test set: 93.30%
+Epoch 99/400, Test Loss: 0.034580392095423636, Accuracy on Test set: 88.90%
+Epoch 100/400, Test Loss: 0.03577447797930954, Accuracy on Test set: 92.77%
+Epoch 101/400, Test Loss: 0.03389809456305199, Accuracy on Test set: 91.50%
+Epoch 102/400, Test Loss: 0.0358446169649008, Accuracy on Test set: 92.07%
+Epoch 103/400, Test Loss: 0.030069948773239673, Accuracy on Test set: 93.23%
+Epoch 104/400, Test Loss: 0.038771722318441275, Accuracy on Test set: 88.97%
+Epoch 105/400, Test Loss: 0.03302981049568344, Accuracy on Test set: 92.27%
+Epoch 106/400, Test Loss: 0.02943578160310526, Accuracy on Test set: 89.80%
+Epoch 107/400, Test Loss: 0.027426289838089903, Accuracy on Test set: 87.90%
+Epoch 108/400, Test Loss: 0.0320343711290407, Accuracy on Test set: 92.47%
+Epoch 109/400, Test Loss: 0.028574269887289446, Accuracy on Test set: 92.60%
+Epoch 110/400, Test Loss: 0.029102932960810183, Accuracy on Test set: 92.73%
+Epoch 111/400, Test Loss: 0.032763105456306826, Accuracy on Test set: 93.17%
+Epoch 112/400, Test Loss: 0.02885221588200232, Accuracy on Test set: 90.07%
+Epoch 113/400, Test Loss: 0.02409785149411532, Accuracy on Test set: 91.50%
+Epoch 114/400, Test Loss: 0.03022623097996329, Accuracy on Test set: 92.80%
+Epoch 115/400, Test Loss: 0.02476816055181732, Accuracy on Test set: 92.63%
+Epoch 116/400, Test Loss: 0.02472647340081067, Accuracy on Test set: 90.57%
+Epoch 117/400, Test Loss: 0.02723763160676788, Accuracy on Test set: 92.00%
+Epoch 118/400, Test Loss: 0.027617551387459815, Accuracy on Test set: 91.70%
+Epoch 119/400, Test Loss: 0.025664982956423648, Accuracy on Test set: 92.33%
+Epoch 120/400, Test Loss: 0.028190199917478054, Accuracy on Test set: 90.77%
+Epoch 121/400, Test Loss: 0.026087318114512623, Accuracy on Test set: 92.63%
+Epoch 122/400, Test Loss: 0.024115532228912964, Accuracy on Test set: 89.63%
+Epoch 123/400, Test Loss: 0.025222704088441163, Accuracy on Test set: 91.80%
+Epoch 124/400, Test Loss: 0.024059601405622234, Accuracy on Test set: 91.73%
+Epoch 125/400, Test Loss: 0.024730072670971524, Accuracy on Test set: 89.73%
+Epoch 126/400, Test Loss: 0.023567386889075462, Accuracy on Test set: 92.97%
+Epoch 127/400, Test Loss: 0.025919352624437363, Accuracy on Test set: 89.87%
+Epoch 128/400, Test Loss: 0.022109500040913714, Accuracy on Test set: 92.57%
+Epoch 129/400, Test Loss: 0.02134940159406129, Accuracy on Test set: 92.10%
+Epoch 130/400, Test Loss: 0.020971081921691736, Accuracy on Test set: 91.27%
+Epoch 131/400, Test Loss: 0.024905536660893658, Accuracy on Test set: 92.03%
+Epoch 132/400, Test Loss: 0.02381323737983914, Accuracy on Test set: 92.13%
+Epoch 133/400, Test Loss: 0.020182902002497467, Accuracy on Test set: 92.23%
+Epoch 134/400, Test Loss: 0.018658976037203116, Accuracy on Test set: 89.87%
+Epoch 135/400, Test Loss: 0.023575751931060072, Accuracy on Test set: 90.43%
+Epoch 136/400, Test Loss: 0.021434065118383493, Accuracy on Test set: 91.30%
+Epoch 137/400, Test Loss: 0.019560654071089038, Accuracy on Test set: 90.80%
+Epoch 138/400, Test Loss: 0.02044958394667425, Accuracy on Test set: 92.60%
+Epoch 139/400, Test Loss: 0.021600028786309487, Accuracy on Test set: 91.10%
+Epoch 140/400, Test Loss: 0.02097804729784817, Accuracy on Test set: 92.13%
+Epoch 141/400, Test Loss: 0.019517975805826062, Accuracy on Test set: 92.60%
+Epoch 142/400, Test Loss: 0.020674478010797512, Accuracy on Test set: 90.37%
+Epoch 143/400, Test Loss: 0.01969425089026126, Accuracy on Test set: 92.20%
+Epoch 144/400, Test Loss: 0.01867849840666719, Accuracy on Test set: 89.23%
+Epoch 145/400, Test Loss: 0.02102159862726556, Accuracy on Test set: 89.43%
+Epoch 146/400, Test Loss: 0.017074273790506495, Accuracy on Test set: 86.73%
+Epoch 147/400, Test Loss: 0.019222465454119642, Accuracy on Test set: 90.67%
+Epoch 148/400, Test Loss: 0.017557021290460002, Accuracy on Test set: 91.90%
+Epoch 149/400, Test Loss: 0.023459322047662608, Accuracy on Test set: 92.77%
+Epoch 150/400, Test Loss: 0.016916274068677375, Accuracy on Test set: 90.73%
+Epoch 151/400, Test Loss: 0.01605291037530069, Accuracy on Test set: 93.30%
+Epoch 152/400, Test Loss: 0.016161666119027602, Accuracy on Test set: 93.00%
+Epoch 153/400, Test Loss: 0.020702606866520198, Accuracy on Test set: 92.83%
+Epoch 154/400, Test Loss: 0.01639565365470094, Accuracy on Test set: 91.67%
+Epoch 155/400, Test Loss: 0.020236119772782064, Accuracy on Test set: 92.17%
+Epoch 156/400, Test Loss: 0.014981503302388123, Accuracy on Test set: 92.67%
+Epoch 157/400, Test Loss: 0.019178969588327127, Accuracy on Test set: 90.97%
+Epoch 158/400, Test Loss: 0.016551417568687492, Accuracy on Test set: 89.83%
+Epoch 159/400, Test Loss: 0.018345522443251903, Accuracy on Test set: 92.30%
+Epoch 160/400, Test Loss: 0.020318067077573793, Accuracy on Test set: 91.93%
+Epoch 161/400, Test Loss: 0.014871174864905723, Accuracy on Test set: 92.50%
+Epoch 162/400, Test Loss: 0.016420670488040443, Accuracy on Test set: 91.87%
+Epoch 163/400, Test Loss: 0.015544186976034265, Accuracy on Test set: 91.90%
+Epoch 164/400, Test Loss: 0.017202893961430637, Accuracy on Test set: 93.30%
+Epoch 165/400, Test Loss: 0.015896814926063985, Accuracy on Test set: 91.70%
+Epoch 166/400, Test Loss: 0.017899471698497132, Accuracy on Test set: 92.60%
+Epoch 167/400, Test Loss: 0.014312072726015125, Accuracy on Test set: 92.37%
+Epoch 168/400, Test Loss: 0.012675414905746543, Accuracy on Test set: 91.60%
+Epoch 169/400, Test Loss: 0.017322553318408783, Accuracy on Test set: 92.67%
+Epoch 170/400, Test Loss: 0.01848952929346968, Accuracy on Test set: 92.00%
+Epoch 171/400, Test Loss: 0.01503831672830335, Accuracy on Test set: 92.07%
+Epoch 172/400, Test Loss: 0.014296968136218892, Accuracy on Test set: 93.30%
+Epoch 173/400, Test Loss: 0.012565639582286054, Accuracy on Test set: 93.00%
+Epoch 174/400, Test Loss: 0.016909014354310973, Accuracy on Test set: 92.87%
+Epoch 175/400, Test Loss: 0.015392288523290297, Accuracy on Test set: 92.17%
+Epoch 176/400, Test Loss: 0.015260049035114466, Accuracy on Test set: 89.17%
+Epoch 177/400, Test Loss: 0.01100086104928933, Accuracy on Test set: 92.00%
+Epoch 178/400, Test Loss: 0.014723512485857293, Accuracy on Test set: 92.53%
+Epoch 179/400, Test Loss: 0.014200113788294005, Accuracy on Test set: 93.10%
+Epoch 180/400, Test Loss: 0.018804376884209106, Accuracy on Test set: 92.07%
+Epoch 181/400, Test Loss: 0.015688165857539935, Accuracy on Test set: 92.53%
+Epoch 182/400, Test Loss: 0.011925971361293163, Accuracy on Test set: 91.57%
+Epoch 183/400, Test Loss: 0.015871966898527386, Accuracy on Test set: 91.90%
+Epoch 184/400, Test Loss: 0.011373163176017982, Accuracy on Test set: 92.73%
+Epoch 185/400, Test Loss: 0.014222139231662014, Accuracy on Test set: 92.37%
+Epoch 186/400, Test Loss: 0.012905226538307585, Accuracy on Test set: 92.73%
+Epoch 187/400, Test Loss: 0.0112180182942293, Accuracy on Test set: 92.37%
+Epoch 188/400, Test Loss: 0.013143005766530666, Accuracy on Test set: 92.23%
+Epoch 189/400, Test Loss: 0.013460293385863383, Accuracy on Test set: 92.60%
+Epoch 190/400, Test Loss: 0.01484467467870806, Accuracy on Test set: 90.53%
+Epoch 191/400, Test Loss: 0.014164505461870883, Accuracy on Test set: 90.53%
+Epoch 192/400, Test Loss: 0.013703324075322598, Accuracy on Test set: 91.23%
+Epoch 193/400, Test Loss: 0.013336214984511135, Accuracy on Test set: 92.30%
+Epoch 194/400, Test Loss: 0.010419747184245334, Accuracy on Test set: 92.67%
+Epoch 195/400, Test Loss: 0.013537195522886573, Accuracy on Test set: 92.20%
+Epoch 196/400, Test Loss: 0.01347164184743896, Accuracy on Test set: 92.83%
+Epoch 197/400, Test Loss: 0.011729572385012158, Accuracy on Test set: 90.57%
+Epoch 198/400, Test Loss: 0.012437399860909562, Accuracy on Test set: 91.30%
+Epoch 199/400, Test Loss: 0.015092189215047515, Accuracy on Test set: 92.33%
+Epoch 200/400, Test Loss: 0.014951769324208244, Accuracy on Test set: 92.27%

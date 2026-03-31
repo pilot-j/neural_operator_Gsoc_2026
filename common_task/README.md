@@ -1,5 +1,5 @@
 # Multiclass Classification of Gravitational Lensing Images
-
+Note: Common task metrics have been corrected here; apologies I could not update this in the proposal.
 ## Overview
 This repository contains the implementation of a CNN model for classifying gravitational lensing images into three distinct classes.
 ## Model Architecture

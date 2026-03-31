@@ -1,8 +1,17 @@
 # Specific Task 4: Training Neural Operator for Image Classification
 
+## Dataset
+
+[Gravitational Lens Images](https://www.kaggle.com/datasets/mldtype/gravitational-lens-img)
+
 ## Weights
 
-> Placeholder - weights will be added here.
+| Task | Weights |
+|------|---------|
+| Specific Task 4 (FNO) | [FNO Weights](https://www.kaggle.com/datasets/mldtype/fno-weights) |
+| Common Task (ResNet-18 + SE) | [CustomNet Weights](https://www.kaggle.com/datasets/mldtype/customnet-weights) (`customnet_classification_final.pth`) |
+
+> Common task notebook is available in the [`common_task/`](common_task/) folder.
 
 ## Introduction
 

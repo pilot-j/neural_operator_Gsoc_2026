@@ -44,13 +44,15 @@ Three architectural variants were systematically tested:
 
 | Architecture | #params | Additional Training Config | Val F1 Score | Val micro avg AUC Score | Classwise AUC |
 |--------------|---------|---------------------------|--------------|------------------------|---------------|
-| ResNet-18 + SE Blocks | 13.6M | NA | - | 1.0 | no: 1.00, sphere: 1.00, vort: 1.00 |
+| ResNet-18 + SE Blocks | 13.6M | NA | - | 0.9908 | no: 0.9905, sphere: 0.9824, vort: 0.9936 |
 | Naive FNO | 7.1M | Spatial dropout = 0.1, cosine annealing scheduler | 0.73 | 0.9019 | no: 0.9666, sphere: 0.8276, vort: 0.8893 |
 | FNO | 9.7M | Modes = 14 | 0.93 | 0.9909 | no: 0.9954, sphere: 0.9808, vort: 0.9912 |
 | FNO_light | 7.1M | Modes = 12 | 0.96 | 0.9954 | no: 0.9972, sphere: 0.9901, vort: 0.9960 |
 | FNO_Hourglass | 4.3M | NA | 0.94 | 0.9918 | no: 0.9957, sphere: 0.9830, vort: 0.9925 |
 
-**Best AUC achieved by FNO_ce_light (0.9954). CNN baseline achieved 1.0.**
+**Best AUC achieved by FNO_ce_light (0.9954).**
+
+*Note: Common task metrics have been corrected here; apologies this was not updated in the proposal.*
 
 ## Details
 

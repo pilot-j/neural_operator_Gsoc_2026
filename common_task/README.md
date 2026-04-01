@@ -1,5 +1,5 @@
 # Multiclass Classification of Gravitational Lensing Images
-
+Note: Common task metrics have been corrected here; apologies I could not update this in the proposal.
 ## Overview
 This repository contains the implementation of a CNN model for classifying gravitational lensing images into three distinct classes.
 ## Model Architecture
@@ -11,9 +11,9 @@ This repository contains the implementation of a CNN model for classifying gravi
 ### Performance Metrics
 |Class Name| Class Label | AUC Score |
 |------------|------------|-----------|
-|no| Class 0   | 1      |
-|sphere| Class 1    |1     |
-|vort| Class 2    | 1     |
+|no| Class 0   | 0.9905      |
+|sphere| Class 1    |0.9824    |
+|vort| Class 2    | 0.9936     |
 
 ### Training Parameters
 | Parameter    | Value         |

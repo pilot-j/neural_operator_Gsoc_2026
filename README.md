@@ -11,6 +11,17 @@
 | Specific Task 4 (FNO) | [FNO Weights](https://www.kaggle.com/datasets/mldtype/fno-weights) |
 | Common Task (ResNet-18 + SE) | [CustomNet Weights](https://www.kaggle.com/datasets/mldtype/customnet-weights) (`customnet_classification_final.pth`) |
 
+### FNO Model Weight Files
+
+All FNO weights are available in the [`weights/`](weights/) folder or via the [Kaggle dataset](https://www.kaggle.com/datasets/mldtype/fno-weights). The required files for each architecture:
+
+| Model | Weight File |
+|-------|-------------|
+| Naive FNO | `naive_fno_f1_7259.pth` |
+| FNO_CE | `fno_ce_f1_9338.pth` |
+| **FNO_CE_Light** | `fno_ce_light_f1_9555.pth` |
+| FNO_Hourglass | `fno_hourglas_f1_9408.pth` |
+
 > Common task notebook is available in the [`common_task/`](common_task/) folder.
 
 ## Introduction

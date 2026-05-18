@@ -1,31 +1,8 @@
-# Specific Task 4: Training Neural Operator for Image Classification
+Read proposal here - [Neural Operator for Lensing Simulations](https://drive.google.com/file/d/14VCmmIx4iOBCadals05YjpfFOSZqiPec/view?usp=sharing)
 
-## Dataset
-
-[Gravitational Lens Images](https://www.kaggle.com/datasets/mldtype/gravitational-lens-img)
-
-## Weights
-
-| Task | Weights |
-|------|---------|
-| Specific Task 4 (FNO) | [FNO Weights](https://www.kaggle.com/datasets/mldtype/fno-weights) |
-| Common Task (ResNet-18 + SE) | [CustomNet Weights](https://www.kaggle.com/datasets/mldtype/customnet-weights) (`customnet_classification_final.pth`) |
-
-### FNO Model Weight Files
-
-All FNO weights are available in the [`weights/`](weights/) folder or via the [Kaggle dataset](https://www.kaggle.com/datasets/mldtype/fno-weights). The required files for each architecture:
-
-| Model | Weight File |
-|-------|-------------|
-| Naive FNO | `naive_fno_f1_7259.pth` |
-| FNO_CE | `fno_ce_f1_9338.pth` |
-| **FNO_CE_Light** | `fno_ce_light_f1_9555.pth` |
-| FNO_Hourglass | `fno_hourglas_f1_9408.pth` |
-
-> Common task notebook is available in the [`common_task/`](common_task/) folder.
 
 ## Introduction
-
+Training Neural Operator for Image Classification
 This task explores using Fourier Neural Operators (FNO) for image classification on gravitational lensing data. The dataset consists of gravitational lensing images across three classes: **No Substructure**, **Sphere (subhalo) Substructure**, and **Vortex Substructure**.
 
 The dataset is organized into train and validation splits. The train set is further divided into 90% for training and 10% for validation. Final evaluation metrics are reported on the held-out validation set.
@@ -92,6 +69,30 @@ Three architectural variants were systematically tested:
 #### FNO Hourglass
 ![Hourglass FNO Architecture](images/task_4/hourglass_fno_arch.png)
 
+
+## Dataset
+
+[Gravitational Lens Images](https://www.kaggle.com/datasets/mldtype/gravitational-lens-img)
+
+## Weights
+
+| Task | Weights |
+|------|---------|
+| Specific Task 4 (FNO) | [FNO Weights](https://www.kaggle.com/datasets/mldtype/fno-weights) |
+| Common Task (ResNet-18 + SE) | [CustomNet Weights](https://www.kaggle.com/datasets/mldtype/customnet-weights) (`customnet_classification_final.pth`) |
+
+### FNO Model Weight Files
+
+All FNO weights are available in the [`weights/`](weights/) folder or via the [Kaggle dataset](https://www.kaggle.com/datasets/mldtype/fno-weights). The required files for each architecture:
+
+| Model | Weight File |
+|-------|-------------|
+| Naive FNO | `naive_fno_f1_7259.pth` |
+| FNO_CE | `fno_ce_f1_9338.pth` |
+| **FNO_CE_Light** | `fno_ce_light_f1_9555.pth` |
+| FNO_Hourglass | `fno_hourglas_f1_9408.pth` |
+
+> Common task notebook is available in the [`common_task/`](common_task/) folder.
 ### Training Curves
 
 ![Loss Legend](images/task_4/loss_legend.png)
